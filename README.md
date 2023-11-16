@@ -36,22 +36,22 @@ The data in this repository has been curated from:
 
 Additional information to establish the geological context of zircons when required was obtained from: 
 
-1) Ossandon et al. (2001)
-2) Richards et al. (2001)
-3) Lickfold (2002)
-4) Proffett (2003)
-5) Redmond and Einaudi (2010)
-6) Wainwright et al. (2011)
-7) Leys et al. (2012)
-8) Rivera et al. (2012)
-9) Mpodozis and Cornejo (2012)
-10) Porter et al. (2012)
-11) Trautman (2013)
-12) Barra et al. (2013)
-13) Wafforn (2017)
-14) Mudd and Jowitt (2018)
+1) [Ossandon et al. (2001)](https://doi.org/10.2113/gsecongeo.96.2.249)
+2) [Richards et al. (2001)](https://doi.org/10.2113/gsecongeo.96.2.271)
+3) [Lickfold (2002)](https://doi.org/10.25959/23210837.v1 )
+4) [Proffett (2003)](https://doi.org/10.2113/gsecongeo.98.8.1535)
+5) [Redmond and Einaudi (2010)](https://doi.org/10.2113/gsecongeo.105.1.43)
+6) [Wainwright et al. (2011)]()
+7) [Leys et al. (2012)]()
+8) [Rivera et al. (2012)]()
+9) [Mpodozis and Cornejo (2012)]()
+10) [Porter et al. (2012)]()
+11) [Trautman (2013)]()
+12) [Barra et al. (2013)]()
+13) [Wafforn (2017)]()
+14) [Mudd and Jowitt (2018)]()
 15) [Hao et al. (2019)](https://doi.org/10.1093/petrology/egz004)
-16) Sulaksono et al. (2021)
+16) [Sulaksono et al. (2021)]()
 
 The data in the external validation dataset was compiled from:
 
