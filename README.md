@@ -9,7 +9,7 @@ There are two files:
 2) `Data Dictionary.csv`: This is the description of the variables in `Zircon Fertility Data.csv`
 3) `External Validation.csv`: External validation set used in the work of Carrasco-Godoy et al. (under review).
 4) `Data Dictionary External Validation.csv`:This is the description of the variables in `External Validation.csv`
-5) `Georoc References.csv`: References for Zircons from GEOROC database.
+5) [`Georoc References.csv`](GEOROC%20References.csv): References for Zircons from GEOROC database.
 
 The data in this repository has been curated from: 
 
