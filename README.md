@@ -32,7 +32,7 @@ The data in this repository has been curated from:
 17) [Large et al. (2021)](https://doi.org/10.1016/j.epsl.2021.116877)
 18) [Lee et al. (2021)](https://doi.org/10.1007/s00126-020-00961-1)
 19) [Carter et al. (2022)](https://doi.org/10.1038/s41598-022-20158-y)
-20) Cajal Contreras (2023; in embargo period).
+20) [Cajal Contreras (2023; in embargo period).](https://openresearch-repository.anu.edu.au/handle/1885/307429)
 
 Additional information to establish the geological context of zircons when required was obtained from: 
 
