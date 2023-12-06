@@ -1,6 +1,6 @@
 # Zircon Fertility Data
 
-This is the repository for the zircon fertility data. This is a compilation of zircons from fertile and barren sources regarding to porphyry copper deposits. 
+This is the repository for the zircon fertility data associated witht the study: `Quantifying the criteria used to identify zircons from ore-bearing and barren systems in porphyry copper exploration`, currently under review. This is a compilation of zircons from fertile and barren sources regarding to porphyry copper deposits. 
 
 
 There are two files: 
