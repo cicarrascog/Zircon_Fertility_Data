@@ -1,5 +1,7 @@
 # Zircon Fertility Data
 
+[![DOI](https://zenodo.org/badge/719390080.svg)](https://zenodo.org/doi/10.5281/zenodo.10343460)
+
 This is the repository for the zircon fertility data associated witht the study: `Quantifying the criteria used to identify zircons from ore-bearing and barren systems in porphyry copper exploration`, currently under review. This is a compilation of zircons from fertile and barren sources regarding to porphyry copper deposits. 
 
 
