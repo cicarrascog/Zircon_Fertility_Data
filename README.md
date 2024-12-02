@@ -2,14 +2,14 @@
 
 [![DOI](https://zenodo.org/badge/719390080.svg)](https://zenodo.org/doi/10.5281/zenodo.10343460)
 
-This is the repository for the zircon fertility data associated witht the study: `Quantifying the criteria used to identify zircons from ore-bearing and barren systems in porphyry copper exploration`, currently under review. This is a compilation of zircons from fertile and barren sources regarding to porphyry copper deposits. 
+This is the repository for the zircon fertility data associated witht the study: [`Quantifying the criteria used to identify zircons from ore-bearing and barren systems in porphyry copper exploration`](https://pubs.geoscienceworld.org/segweb/economicgeology/article/119/5/1035/645317/Quantifying-the-Criteria-Used-to-Identify-Zircons), published at Economic Geology. This is a compilation of zircons from fertile and barren sources regarding to porphyry copper deposits. 
 
 
 There are two files: 
 
 1) [`Zircon Fertility Data.csv`](Zircon%20Fertility%20Data.csv): This is the data.
 2) [`Data Dictionary.csv`](Data%20Dictionary.csv): This is the description of the variables in `Zircon Fertility Data.csv`
-3) [`External Validation.csv`](External%20Validation.csv): External validation set used in the work of Carrasco-Godoy et al. (under review).
+3) [`External Validation.csv`](External%20Validation.csv): External validation set used in the work of Carrasco-Godoy et al. (2024).
 4) [`Data Dictionary External Validation.csv`](Data%20Dictionary%20External%20Validation.csv):This is the description of the variables in `External Validation.csv`
 5) [`Georoc References.csv`](GEOROC%20References.csv): References for Zircons from GEOROC database.
 
